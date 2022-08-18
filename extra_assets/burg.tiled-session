@@ -1,0 +1,68 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "buildingsTilest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "doorstilest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "farmTilest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 300.33333333333326,
+                "y": 279.33333333333326
+            }
+        },
+        "smallburg_outside_assetsTilest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "villageTerrainTilest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/jo/Desktop/smallburg",
+    "last.imagePath": "C:/Users/jo/Desktop/smallburg/village/tileset",
+    "map.height": 30,
+    "map.lastUsedExportFilter": "File Lua (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 50,
+    "openFiles": [
+        "map1.tmx",
+        "farmTilest.tsx",
+        "villageTerrainTilest.tsx",
+        "smallburg_outside_assetsTilest.tsx"
+    ],
+    "project": "burg.tiled-project",
+    "recentFiles": [
+        "smallburg_outside_assetsTilest.tsx",
+        "villageTerrainTilest.tsx",
+        "farmTilest.tsx",
+        "map1.tmx",
+        "buildingsTilest.tsx",
+        "doorstilest.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

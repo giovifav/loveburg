@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Senza Titolo.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Senza Titolo.tmx": {
+            "scale": 2.1513541666666667,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 240.08134411465647,
+                "y": 160.3641117513194
+            }
+        },
+        "Senza Titolo.tmx#smallburg_outside_assets": {
+            "scaleInDock": 1
+        },
+        "Senza Titolo.tmx#smallburg_terrain": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/jo/Desktop/smallburg",
+    "last.imagePath": "C:/Users/jo/Desktop/smallburg/village/tileset",
+    "map.lastUsedExportFilter": "File Lua (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "Senza Titolo.tmx"
+    ],
+    "project": "2atempt.tiled-project",
+    "recentFiles": [
+        "Senza Titolo.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"x": 0,
+	"y": 0,
+	"width": 256,
+	"height": 256,
+	"iid": "71344a60-02f0-11ed-82fa-c7256bd9581c",
+	"layers": [
+		"Background.png",
+		"PathTiles.png",
+		"FarmLand.png"
+	],
+	"entities" : {}
+}
